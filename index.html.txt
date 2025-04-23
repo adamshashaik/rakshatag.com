@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Raksha Tag</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: #f8f9fa;
+color: #333;
+}
+header, footer {
+background: #004aad;
+color: white;
+padding: 1em;
+text-align: center;
+}
+section {
+padding: 2em;
+max-width: 800px;
+margin: auto;
+}
+h2 {
+color: #004aad;
+}
+.donate-box {
+background: #e3f2fd;
+padding: 1em;
+border-radius: 8px;
+}
+.contact {
+background: #f1f8e9;
+padding: 1em;
+border-radius: 8px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Raksha Tag</h1>
+<p>QR-Based Emergency Safety & Contact System</p>
+</header>
+
+<section>
+<h2>About Raksha Tag</h2>
+<p>
+Raksha Tag is a public service initiative to help people stay safe in emergency situations. Our QR-based ID tags link to emergency contact details, helping good samaritans or authorities contact family instantly.
+</p>
+</section>
+
+<section>
+<h2>How It Works</h2>
+<p>
+Each Raksha Tag carries a unique QR code. When scanned, it displays pre-linked emergency contact information of the person it belongs to. Useful for children, senior citizens, travelers, and vehicle owners.
+</p>
+</section>
+
+<section class="donate-box">
+<h2>Support the Cause</h2>
+<p>
+Raksha Tag is a completely free service. We invite well-wishers to support us in expanding this initiative.
+</p>
+<p><strong>Donate via GPay / PhonePe:</strong> 9384563999</p>
+</section>
+
+<section class="contact">
+<h2>Contact Us</h2>
+<p>Email: <a href="mailto:adamsha135@gmail.com">adamsha135@gmail.com</a>, <a href="mailto:admin@rakshatag.com">admin@rakshatag.com</a></p>
+<p>Phone: <a href="tel:+919384563999">9384563999</a></p>
+</section>
+
+<footer>
+<p>&copy; 2025 Raksha Tag. All rights reserved.</p>
+</footer>
+</body>
+</html>
